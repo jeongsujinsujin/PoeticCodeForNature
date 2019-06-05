@@ -16,6 +16,7 @@
 * [3개의 표현 작업 1]
 ### [작업링크](https://editor.p5js.org/dkfjqthdl@gmail.com/embed/MrvBdFZbh)
 ![작업 이미지](./black1.png)
+
  * 노이즈 값을 넣어 반복되는 무늬/마우스 값에 따라 배경의 스케일이 달라진다.
 ----
 * [3개의 표현 작업 2]
