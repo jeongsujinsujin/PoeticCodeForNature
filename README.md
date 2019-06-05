@@ -10,11 +10,12 @@
 
 
 ## 작업
-* [1]
-### [예시 작업](https://editor.p5js.org/dkfjqthdl@gmail.com/embed/MrvBdFZbh)
-![예시 이미지](./example_img.png)
- * 여러분의 작업을 p5 기반으로 만들고 링크를 걸 수 있습니다.
- * 이미지를 추가해서 작업을 더 이해하기 쉽게 만들 수 있습니다.
+* [3개의 표현 작업 1]
+<블랙홀>
+### [작업링크](https://editor.p5js.org/dkfjqthdl@gmail.com/embed/MrvBdFZbh)
+![작업 이미지](./black1.png)
+ * 노이즈 값을 넣어 반복되는 무늬
+ * 마우스 값에 따라 배경의 스케일이 달라진다.
 
 ----
 ### [쿵쿵짝쿵 공을 튕기네](./ex01/)
