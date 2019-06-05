@@ -11,7 +11,6 @@
 
 ## 작업
 * [3개의 표현 작업 1]
-<블랙홀>
 ### [작업링크](https://editor.p5js.org/dkfjqthdl@gmail.com/embed/MrvBdFZbh)
 ![작업 이미지](./black1.png)
  * 노이즈 값을 넣어 반복되는 무늬
